@@ -2,24 +2,51 @@
 <img src="assets/logo-adalab.png" alt="Adalab Logo" width="200"/>
 </p>
 
-<h1 align="center">🎮 Proyecto de Juegos - Adalab Bootcamp </h1>
+<h1 align="center"> Proyecto de Juegos - Adalab Bootcamp </h1>
 
 <p align="center">
-  <em>Un proyecto creado por un grupo de 5 estudiantes del Bootcamp de <a href="https://adalab.es">Adalab</a> — impulsando a las mujeres en tecnología.</em>
+  <em>Un proyecto creado por 5 estudiantes del Bootcamp de <a href="https://adalab.es">Adalab</a> Impulsando a las mujeres en tecnología.</em>
+  
+
 </p>
+
+<p align="center">
+  <a href="https://github.com/ariyabritez">
+    <img src="https://github.com/ariyabritez.png" width="80" height="80" style="border-radius:50%;" alt="Ariya"/>
+  </a>
+  <a href="https://github.com/TamDb22">
+    <img src="https://github.com/TamDb22.png" width="80" height="80" style="border-radius:50%;" alt="Tamara"/>
+  </a>
+  <a href="https://github.com/juliaisidroj">
+    <img src="https://github.com/juliaisidroj.png" width="80" height="80" style="border-radius:50%;" alt="Julia"/>
+  </a>
+  <a href="https://github.com/Ruthpsegovia">
+    <img src="https://github.com/Ruthpsegovia.png" width="80" height="80" style="border-radius:50%;" alt="Ruth"/>
+  </a>
+  <a href="https://github.com/galia22">
+    <img src="https://github.com/galia22.png" width="80" height="80" style="border-radius:50%;" alt="Galia"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Ariya</b> • <b>Tamara</b> • <b>Julia</b> • <b>Ruth</b> • <b>Galia</b>
+</p>
+
+
+
 
 ---
 
 ¡Bienvenidas a nuestro repositorio! 
   
-Este proyecto ha sido desarrollado como parte del **bootcamp de desarrollo web de [Adalab](https://adalab.es)**, una escuela que impulsa la presencia de **mujeres en el mundo tech**, promoviendo la **inclusión, la colaboración y el aprendizaje práctico**.  
+Este proyecto ha sido desarrollado como parte del bootcamp de desarrollo web de Adalab, una escuela que impulsa la presencia de **mujeres en el mundo tech**, promoviendo la inclusión, la colaboración y el aprendizaje práctico.  
 
-Somos un grupo de **5 estudiantes apasionadas por la tecnología**, la creatividad y el trabajo en equipo.  
+Somos un grupo de estudiantes apasionadas por la tecnología, la creatividad y el trabajo en equipo.  
 Durante este proyecto, se nos ha pedido crear una serie de juegos clásicos en Python como parte de nuestro aprendizaje de programación y diseño de interfaces gráficas.  
 
 ---
 
-## 🎲 Juegos desarrollados
+## Juegos 
 
 <h3 align="center"> 🪨 Piedra, Papel o Tijeras </h3>
 Nuestro primer proyecto fue el clásico **“Piedra, papel o tijeras”**.  
@@ -32,7 +59,7 @@ Todo ello con una interfaz creada con **Tkinter**, para hacerlo más visual y di
 <h3 align="center"> 🔠 El Ahorcado </h3>
 El segundo juego es el tradicional **Ahorcado**.  
 El jugador debe adivinar una palabra secreta letra por letra antes de que se complete el dibujo del personaje ahorcado.  
-Cada error añade una parte del dibujo del “hangman” hasta que… ¡oh no! 😅  
+Cada error añade una parte del dibujo del “hangman” hasta que… ¡oh no!
 También cuenta con una interfaz interactiva desarrollada con **Tkinter**, que muestra el progreso visual del ahorcado y las letras acertadas.
 
 ---
@@ -51,7 +78,7 @@ La interfaz con **Tkinter** permite jugar fácilmente haciendo clic en cada casi
 
 ---
 
-## 🧩 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Lenguaje:** Python 🐍  
 - **Entorno:** Visual Studio Code + Jupyter Notebook  
@@ -62,7 +89,7 @@ La interfaz con **Tkinter** permite jugar fácilmente haciendo clic en cada casi
 
 ---
 
-## 🚀 Cómo ejecutar los juegos
+## Cómo ejecutar los juegos
 
 1. Clona este repositorio:  
    ```bash
@@ -78,7 +105,7 @@ La interfaz con **Tkinter** permite jugar fácilmente haciendo clic en cada casi
   python nombre_del_juego.py
   ```
 
-## 💪 Lo que hemos aprendido
+## Lo que hemos aprendido
 
 Durante este proyecto hemos aprendido a:
 
@@ -90,7 +117,6 @@ Durante este proyecto hemos aprendido a:
 
 ## 💜 Equipo Adalabers
 
-Equipo de 5 estudiantes de Adalab, unidas por la pasión por aprender, programar y crear juntas.
 Este proyecto es solo el comienzo de nuestro camino en la tecnología. 
 
 ¿Quieres probar nuestros juegos o contribuir al proyecto?
