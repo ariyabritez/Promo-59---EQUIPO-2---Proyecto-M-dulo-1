@@ -23,8 +23,8 @@
   <a href="https://github.com/Ruthpsegovia">
     <img src="https://github.com/Ruthpsegovia.png" width="80" height="80" style="border-radius:50%;" alt="Ruth"/>
   </a>
-  <a href="https://github.com/galia22">
-    <img src="https://github.com/galia22.png" width="80" height="80" style="border-radius:50%;" alt="Galia"/>
+  <a href="https://github.com/galiaisabel">
+    <img src="https://github.com/galiaisabel.png" width="80" height="80" style="border-radius:50%;" alt="Galia"/>
   </a>
 </p>
 
