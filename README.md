@@ -113,6 +113,7 @@ Durante este proyecto hemos aprendido a:
 - Crear interfaces gráficas con Tkinter.
 - Trabajar de forma colaborativa mediante GitHub y control de versiones.
 - Aplicar metodologías ágiles (Scrum y Agile), con planificación, retrospectivas y trabajo en equipo.
+- Combinar las habilidades individuales para mejorar el producto de forma continua, haciendo incrementos de valor en cada iteracion.
 - Resolver conflictos, distribuir tareas y presentar resultados en equipo.
 
 ## 💜 Equipo Adalabers
