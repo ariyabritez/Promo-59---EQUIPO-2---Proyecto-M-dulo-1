@@ -49,7 +49,7 @@ Durante este proyecto, se nos ha pedido crear una serie de juegos clásicos en P
 ## Juegos 
 
 <h3 align="center"> 🪨 Piedra, Papel o Tijeras </h3>
-Nuestro primer proyecto fue el clásico **“Piedra, papel o tijeras”**.  
+Nuestro primer proyecto fue el clásico “Piedra, papel o tijeras”.  
 El objetivo es simple: ¡elige tu jugada y compite contra la computadora o contra un segundo jugador!  
 El programa determina quién gana siguiendo las reglas básicas del juego.  
 Todo ello con una interfaz creada con **Tkinter**, para hacerlo más visual y divertido.
