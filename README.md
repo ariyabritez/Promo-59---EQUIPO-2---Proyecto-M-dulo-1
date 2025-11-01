@@ -51,29 +51,33 @@ Durante este proyecto, se nos ha pedido crear una serie de juegos clásicos en P
 <h3 align="center"> 🪨 Piedra, Papel o Tijeras </h3>
 Nuestro primer proyecto fue el clásico “Piedra, papel o tijeras”.  
 El objetivo es simple: ¡elige tu jugada y compite contra la computadora o contra un segundo jugador!  
-El programa determina quién gana siguiendo las reglas básicas del juego.  
+El programa determina quién gana siguiendo las reglas básicas del juego:
+- Piedra (🗿) vence a Tijera (✂️): La piedra rompe la tijera.
+- Tijera (✂️) vence a Papel (📄): La tijera corta el papel.
+- Papel (📄) vence a Piedra (🗿): El papel envuelve la piedra.
+- si ambos participantes eligen la misma opción, empatan y nadie gana puntos.
+El juego termina cuando uno de los dos jugadores consigue antes los puntos objetivo (3 en este caso)
 Todo ello con una interfaz creada con **Tkinter**, para hacerlo más visual y divertido.
 
 ---
 
 <h3 align="center"> 🔠 El Ahorcado </h3>
 El segundo juego es el tradicional **Ahorcado**.  
-El jugador debe adivinar una palabra secreta letra por letra antes de que se complete el dibujo del personaje ahorcado.  
-Cada error añade una parte del dibujo del “hangman” hasta que… ¡oh no!
+🧠 Tu meta es descifrar la palabra secreta oculta (_ _ _) antes de que se complete el dibujo. Por turno, ingresa una letra: si aciertas (✅), se revela; si fallas (❌), pierdes una de tus vidas limitadas. Cada fallo te acerca un paso más a la derrota, consumiendo tus intentos. Ganas 🎉 si adivinas la palabra completa; pierdes 💔 si te quedas sin vidas antes de lograrlo.
 También cuenta con una interfaz interactiva desarrollada con **Tkinter**, que muestra el progreso visual del ahorcado y las letras acertadas.
 
 ---
 
 <h3 align="center">❓ Juego de Preguntas </h3>
 En este juego, importamos un **diccionario con preguntas y respuestas**.  
-El usuario debe introducir sus respuestas a través de un **input interactivo** y acumular puntos por cada acierto.  
+💡 Te enfrentarás a una serie de preguntas ❓:donde el usuario debe introducir sus respuestas a través de un **input interactivo**, cada acierto es un punto 🎉, y cada fallo es un error 😞. El juego finaliza tras todas las rondas. ¡Ganas! 🏆 si tu número total de aciertos es MAYOR que tu número total de fallos.
 Perfecto para poner a prueba tus conocimientos mientras te diviertes.
 
 ---
 
 <h3 align="center"> ⭕❌ Tres en Raya </h3>
 El último juego es el clásico **Tres en raya (Tic Tac Toe)**.  
-Dos jugadores se enfrentan en un tablero 3x3 para lograr alinear tres símbolos iguales, ya sea en fila, columna o diagonal.  
+En este juego se enfrentan dos jugadores: ❌ (que comienza la partida) y  ⭕ (juega en segundo lugar) que se turnan para ir rellenando los huecos libres de un tablero 3x3. Gana el que consiga alinear sus 3 símbolos en horizontal ➡️, vertical⬇️ o en la diagonal ↙️. ¡Cuidado! 😨 Si se rellenan todos los huecos y nadie consigue alinear 3 de sus símbolos, finaliza la partida en empate 🤝 y ¡TENDRÁS QUE VOLVER A JUGAR!
 La interfaz con **Tkinter** permite jugar fácilmente haciendo clic en cada casilla, mostrando los turnos y el resultado final.
 
 ---
