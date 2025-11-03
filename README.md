@@ -56,28 +56,29 @@ El programa determina quién gana siguiendo las reglas básicas del juego:
 - Tijera (✂️) vence a Papel (📄): La tijera corta el papel.
 - Papel (📄) vence a Piedra (🗿): El papel envuelve la piedra.
 - si ambos participantes eligen la misma opción, empatan y nadie gana puntos.
-El juego termina cuando uno de los dos jugadores consigue antes los puntos objetivo (3 en este caso)
+El juego termina cuando una de las dos jugadoras consigue antes los puntos objetivo (3 en este caso)
 Todo ello con una interfaz creada con **Tkinter**, para hacerlo más visual y divertido.
 
 ---
 
 <h3 align="center"> 🔠 El Ahorcado </h3>
 El segundo juego es el tradicional **Ahorcado**.  
-🧠 Tu meta es descifrar la palabra secreta oculta (_ _ _) antes de que se complete el dibujo. Por turno, ingresa una letra: si aciertas (✅), se revela; si fallas (❌), pierdes una de tus vidas limitadas. Cada fallo te acerca un paso más a la derrota, consumiendo tus intentos. Ganas 🎉 si adivinas la palabra completa; pierdes 💔 si te quedas sin vidas antes de lograrlo.
+🧠 Tu meta es descifrar la palabra secreta oculta (_ _ _) antes de que se complete el dibujo. Por turno, ingresa una letra: si aciertas (✅), se revela; si fallas (❌), pierdes una de tus vidas limitadas (6). Cada fallo te acerca un paso más a la derrota, consumiendo tus intentos. Ganas 🎉 si adivinas la palabra completa; pierdes 💔 si te quedas sin vidas antes de lograrlo.
 También cuenta con una interfaz interactiva desarrollada con **Tkinter**, que muestra el progreso visual del ahorcado y las letras acertadas.
 
 ---
 
 <h3 align="center">❓ Juego de Preguntas </h3>
-En este juego, importamos un **diccionario con preguntas y respuestas**.  
-💡 Te enfrentarás a una serie de preguntas ❓:donde el usuario debe introducir sus respuestas a través de un **input interactivo**, cada acierto es un punto 🎉, y cada fallo es un error 😞. El juego finaliza tras todas las rondas. ¡Ganas! 🏆 si tu número total de aciertos es MAYOR que tu número total de fallos.
+En este juego, importamos un **diccionario con preguntas y respuestas**. En esta ocasión nuestra temática será "Geografía". 
+💡 Te enfrentarás a una serie de preguntas ❓donde la usuaria debe introducir sus respuestas a través de un **input interactivo**: cada acierto es un punto 🎉 y cada fallo es un error 😞. El juego finaliza si completas 5 aciertos (¡Ganas! 🏆) o tras llegar a los 3 fallos  (😱¡¡Pierdes y quedas eliminada!!).
 Perfecto para poner a prueba tus conocimientos mientras te diviertes.
+De nuevo hallarás una interfaz gráfica creada con **Tkinter** para facilitar la jugabilidad así como el aprendizaje cuando fallas (te mostrará la respuesta correcta).
 
 ---
 
 <h3 align="center"> ⭕❌ Tres en Raya </h3>
-El último juego es el clásico **Tres en raya (Tic Tac Toe)**.  
-En este juego se enfrentan dos jugadores: ❌ (que comienza la partida) y  ⭕ (juega en segundo lugar) que se turnan para ir rellenando los huecos libres de un tablero 3x3. Gana el que consiga alinear sus 3 símbolos en horizontal ➡️, vertical⬇️ o en la diagonal ↙️. ¡Cuidado! 😨 Si se rellenan todos los huecos y nadie consigue alinear 3 de sus símbolos, finaliza la partida en empate 🤝 y ¡TENDRÁS QUE VOLVER A JUGAR!
+El último juego, nustro BONUS, es el clásico **Tres en raya (Tic Tac Toe)**.  
+En este juego se enfrentan dos jugadoras: ❌ (que comienza la partida) y  ⭕ (juega en segundo lugar) que se turnan para ir rellenando los huecos libres de un tablero 3x3. Gana la que consiga alinear sus 3 símbolos en horizontal ➡️, vertical⬇️ o en la diagonal ↙️. ¡Cuidado! 😨 Si se rellenan todos los huecos y nadie consigue alinear 3 de sus símbolos, finaliza la partida en empate 🤝 y ¡TENDRÁS QUE VOLVER A JUGAR!
 La interfaz con **Tkinter** permite jugar fácilmente haciendo clic en cada casilla, mostrando los turnos y el resultado final.
 
 ---
@@ -111,7 +112,7 @@ La interfaz con **Tkinter** permite jugar fácilmente haciendo clic en cada casi
 
 ## Lo que hemos aprendido
 
-Durante este proyecto hemos aprendido a:
+Durante este proyecto hemos abordado los siguientes retos:
 
 - Programar en Python con lógica, bucles, condicionales y funciones.
 - Crear interfaces gráficas con Tkinter.
